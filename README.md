@@ -52,12 +52,13 @@ This project analyzes **animal shelter intake and adoption trends** using **data
 - Save structured **CSV & Excel reports** for analysis  
 - Merge **pet & shelter records** for a consolidated view
 
-## 📚 Sources & Références
+## 📚 Sources & References
 
 - [Petfinder API Documentation](https://www.petfinder.com/developers/)
 - [Long Beach Animal Shelter Dataset](https://data.longbeach.gov/)
 - [Matplotlib Official Guide](https://matplotlib.org/stable/contents.html)
 - [Pandas Documentation](https://pandas.pydata.org/docs/)
+- [Presentation link](https://www.canva.com/design/DAGntnn_qkA/PCMMeXEzz1yBP42rYfRO9g/edit)
 
 ## 🏁 **How to Run the Project**  
 1️⃣ Install dependencies:  
