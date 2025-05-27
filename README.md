@@ -62,4 +62,4 @@ This project analyzes **animal shelter intake and adoption trends** using **data
 ## 🏁 **How to Run the Project**  
 1️⃣ Install dependencies:  
 ```bash
-pip install -r requirements.txt
+pip install -r requirements.txt# pet_adoption_analysis
